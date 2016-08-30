@@ -1,0 +1,2 @@
+# padi-dev
+buat skripsi
